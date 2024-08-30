@@ -3,14 +3,18 @@
 from your friends at Aerial Intelligence
 
 **The goal**
+
 We want to try and predict wheat yield for several counties in the United States. We've collected some data that should give you a good head start on the exercise.
 
 Once you've finished the exercise, we'd like you to share your insights and performance with us, and how you managed to achieve it. More on that below (in the submitting section)
 
 **The starter data **🚀
+
 2013: https://aerialintel.blob.core.windows.net/recruiting/datasets/wheat-2013-supervised.csv
 2014: https://aerialintel.blob.core.windows.net/recruiting/datasets/wheat-2014-supervised.csv
+
 **Some context**
+
 We're providing you with two years worth of Winter Wheat data. These data are geolocated to specific lat-longs and counties.
 
 Columns A-E in the file provide information on location and time.
@@ -22,6 +26,7 @@ Please exclude CountyName, State, and Date from training as this will result in 
 Feel free to split and manipulate this data as you see fit. You can choose to focus on the starter data, or you can look at what additional higher level features you can process out of the starter data, and even grabbing more related data. If you go above and beyond the starter data, please let us know what you did and your insight behind doing so in your explanation.
 
 **Submitting your results**
+
 Please create a Git repository on a hosted Git platform like GitHub, etc, and send us a link. Your repository should include any code you've written for the exercise, and a writeup README.md or PDF explaining your findings. IPython notebooks are also great.
 
 Some things to consider for your README:
